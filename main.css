@@ -1,0 +1,33 @@
+/* Para que la barra de navegacion quede fija arriba */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+
+/*Para secciones*/
+.bd-example-container-body {
+    height: 960px; 
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
+
+#inicio{
+    padding-top: 80px;
+    height: 560px;            
+}
+#servicios{
+    padding-top: 100px;
+    height: 960px;            
+}
+#portfolio{
+    padding-top: 100px;
+    height: 960px;    
+}
+#contacto{
+    padding-top: 100px;
+    height: 960px;    
+}
+p {
+    font: small-caps 100%/200% serif;
+  }
